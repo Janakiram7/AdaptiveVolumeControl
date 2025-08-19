@@ -12,6 +12,9 @@ int main() {
 
     cout << "Sum: " << sum << endl;
     cout << "Difference: " << difference << endl;
+    // multiply
+    int product = num1 * num2;
+    cout << "Product: " << product << endl;
 
     return 0;
 }
